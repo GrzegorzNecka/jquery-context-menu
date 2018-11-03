@@ -51,9 +51,9 @@
         ---------------------*/
         
         var config = {
-            "Logo w formie SVG": "#svg",
-            "Logo w formacie PNG": "#png",
-            "Zip z logo": "#zip"
+            "link-1": "#svg",
+            "link-2": "#png",
+            "link-3": "#zip"
             };
         
         //contextmenu = dom event
